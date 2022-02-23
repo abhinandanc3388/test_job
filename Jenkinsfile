@@ -10,7 +10,7 @@ pipeline{
         stage('Demo'){
             
              steps{
-            Sharedlib("Abhinandan")
+            testlib("Abhinandan")
         }
             
         }   
